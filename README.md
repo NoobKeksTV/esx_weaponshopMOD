@@ -2,6 +2,8 @@
 ><h3>Weapon Shop</h3>
 >Weapon shop script we already know with a UI.
 
+### THIS IS A FORK TO INCLUDE THE [erp_weaponrage](https://shop.egorp.net/package/5167273) SCRIPT WHEN BUYING A LICENSE!
+
 **Features/Installation**
 - Both the price of weapons and weapons must be defined in the database
 - in the "desc" column you can put a brief description of the weapon, which can be informative, damage, ammunition...
@@ -13,4 +15,5 @@
 [**Download (Source Code)**](https://github.com/timmaia/fakeplate)
 [**Showcase (Video)**](https://i.imgur.com/xbGl6Rs.mp4)
 
-*Any bug or comment, let me know.*
+
+
