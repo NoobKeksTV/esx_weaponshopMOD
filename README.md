@@ -16,4 +16,5 @@
 [**Showcase (Video)**](https://i.imgur.com/xbGl6Rs.mp4)
 
 
-
+ORIGINAL AUTHOR:
+[https://github.com/carlosaaraujo/esx_weaponshop](https://github.com/carlosaaraujo/esx_weaponshop)
