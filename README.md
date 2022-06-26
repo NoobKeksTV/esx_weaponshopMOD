@@ -12,9 +12,6 @@
 - Only compatible with the ESX framework 
 - [mythic_notify](https://github.com/wowpanda/mythic_notify) optional
 
-[**Download (Source Code)**](https://github.com/timmaia/fakeplate)
-[**Showcase (Video)**](https://i.imgur.com/xbGl6Rs.mp4)
-
 
 ORIGINAL AUTHOR:
 [https://github.com/carlosaaraujo/esx_weaponshop](https://github.com/carlosaaraujo/esx_weaponshop)
