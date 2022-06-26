@@ -38,12 +38,8 @@ function OpenBuyLicenseMenu(zone)
 		}
 	}, function(data, menu)
 		if data.current.value == 'yes' then
-			ESX.TriggerServerCallback('esx_weaponshop:buyLicense', function(bought)
-				if bought then
-					menu.close()
-					OpenShopMenu(zone)
-				end
-			end)
+			TriggerEvent('erp_weaponrange:starteWaffenschein')
+			menu.close()
 		end
 	end, function(data, menu)
 		menu.close()
